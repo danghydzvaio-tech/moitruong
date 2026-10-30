@@ -1,0 +1,13 @@
+# Khong tai video, am thanh va video da xuat len GitHub cong khai
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.wav
+*.mp3
+*.m4a
+*.srt
+*.ass
+__pycache__/
+.venv/
